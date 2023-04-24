@@ -1,0 +1,1 @@
+document.write("HELLO我是30105邱鈺媜 ")
